@@ -29,3 +29,17 @@ C:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\obj\Debug\net8.0\
 C:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\obj\Debug\net8.0\MedizinVerkauf.pdb
 C:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\obj\Debug\net8.0\MedizinVerkauf.genruntimeconfig.cache
 C:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\obj\Debug\net8.0\ref\MedizinVerkauf.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\obj\Debug\net8.0\MedizinVerkauf.csproj.AssemblyReference.cache
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\obj\Debug\net8.0\MedizinV.BB0072BD.Up2Date
+c:\Users\linev\ApothekeProject\ApothekeProject2\MedizinVerkauf\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
