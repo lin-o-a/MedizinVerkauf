@@ -3,7 +3,12 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using MedizinVerkauf.Models;
 using Microsoft.EntityFrameworkCore;
 using MedizinVerkauf.DomainLogic;
+using MedizinVerkauf.Models;
+using Microsoft.EntityFrameworkCore;
+using MedizinVerkauf.DomainLogic;
 
+namespace MedizinVerkauf.Pages
+{
 namespace MedizinVerkauf.Pages
 {
 
