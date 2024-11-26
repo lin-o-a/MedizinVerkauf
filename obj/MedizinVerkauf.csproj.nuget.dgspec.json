@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\MedizinVerkauf.csproj": {}
+    "c:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\MedizinVerkauf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\MedizinVerkauf.csproj": {
+    "c:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\MedizinVerkauf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\MedizinVerkauf.csproj",
+        "projectUniqueName": "c:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\MedizinVerkauf.csproj",
         "projectName": "MedizinVerkauf",
-        "projectPath": "C:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\MedizinVerkauf.csproj",
+        "projectPath": "c:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\MedizinVerkauf.csproj",
         "packagesPath": "C:\\Users\\linev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\obj\\",
+        "outputPath": "c:\\Users\\linev\\ApothekeProject\\ApothekeProject2\\MedizinVerkauf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\linev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
