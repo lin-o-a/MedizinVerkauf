@@ -22,12 +22,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/linev/ApothekeProject/ApothekeProject2/MedizinVerkauf/Pages/HelpService/Help.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVscFNlcnZpY2VcSGVscC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/linev/ApothekeProject/ApothekeProject2/MedizinVerkauf/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/linev/ApothekeProject/ApothekeProject2/MedizinVerkauf/Pages/MedicineCreationService/MedicineCreation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNpbmVDcmVhdGlvblNlcnZpY2VcTWVkaWNpbmVDcmVhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/linev/ApothekeProject/ApothekeProject2/MedizinVerkauf/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linev/ApothekeProject/ApothekeProject2/MedizinVerkauf/Pages/PrivacyService/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeVNlcnZpY2VcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/linev/ApothekeProject/ApothekeProject2/MedizinVerkauf/Pages/Shared/_ValidationScriptsPartial.cshtml]
