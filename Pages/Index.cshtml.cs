@@ -9,8 +9,6 @@ using MedizinVerkauf.DomainLogic;
 
 namespace MedizinVerkauf.Pages
 {
-namespace MedizinVerkauf.Pages
-{
 
 public class IndexModel : PageModel
 {
