@@ -15,7 +15,7 @@ public class IndexModel : PageModel
             _logger = logger;
             _context = context;
         }
-        public string Message { get; private set; } = "...New";
+        public string Message { get; private set; } = "...VeryNew";
         public IList<Medicine> Medicine { get; set; }
 
         public async Task OnGetAsync() {
